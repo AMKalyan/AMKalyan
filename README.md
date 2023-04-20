@@ -1,7 +1,4 @@
-### Hi there 👋, I'm Moksh
-
-<!--
-**AMKalyan/AMKalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Hi there 👋, I'm Moksh
 
 Here are some ideas to get you started:
 
