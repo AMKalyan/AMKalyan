@@ -1,10 +1,10 @@
 # 💫 About Me:
 I'm currently pursuing my Computer Science Degree with Artificial Inteligence from Amrita Vishwa Vidyapeetham, Amaravati, Currently in my fourth-Year of B.Tech. I am really passionate about Machine Learning, Data Science, and Web Development. I am also interested in Generative AI and Agentic AI and their applications in various domains. I am excited to learn and explore more about these topics and contribute to the field of AI. I have done multiple projects related to machine learning and data science and have a good understanding of various libraries and frameworks such as TensorFlow, and Scikit-learn . I am also familiar with Python, Java, and C programming languages. I am excited to learn and grow in the field of AI and contribute to the community.<be>
 
-<div align='center>
+<p align='center>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AMKalyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
